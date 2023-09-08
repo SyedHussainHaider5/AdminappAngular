@@ -1,0 +1,10 @@
+#main{
+    display: flex;
+    column-gap: 20px;
+    background-color: gray;
+    /* justify-content: center;
+    align-items: center; */
+    /* margin-top: 30%; */
+    /* height: 400px; */
+
+}
